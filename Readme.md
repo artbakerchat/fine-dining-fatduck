@@ -1,1 +1,1 @@
-churros
+You can us the useChat hook in your frontend component to automatically handle message appending, state updates, and rendering. You can also track the turn count to disable input once the limit is hit.
